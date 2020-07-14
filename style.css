@@ -77,6 +77,15 @@ ul {
   opacity: 0.9;
 }
 
+.dark {
+  color: #fff;
+}
+
+.dark .btn {
+  background: #f4f4f4;
+  color: #333;
+}
+
 /* Showcase */
 .showcase {
   width: 100%;
@@ -141,7 +150,8 @@ ul {
   padding: 50px 0 0 30px;
 }
 
-.xbox p {
+.xbox p,
+.carbon p {
   margin: 10px 0 20px;
 }
 
